@@ -13,9 +13,10 @@ Git:
     git clone git@github.com:zgfang1993/notebook.git
     
 started：
-
+```
 1.get into file
 2.node server
+```
 
 
 
