@@ -16,6 +16,7 @@ started：
 ```
 1.get into file
 2.node server
+3.Open http://localhost:3000 in your browser
 ```
 
 
