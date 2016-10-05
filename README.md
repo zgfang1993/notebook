@@ -19,7 +19,7 @@ started：
 3.在http://localhost:3000
 ```
 
-![image](https://github.com/zgfang1993/notebook/blob/master/notebook.png)
+![image](https://github.com/zgfang1993/notebook/blob/master/notebook.jpg)
 
 
 
